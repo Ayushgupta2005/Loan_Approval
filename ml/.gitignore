@@ -1,0 +1,11 @@
+# ML artifacts
+*.pkl
+*.joblib
+
+# Data
+.csv
+
+# Env
+.env
+__pycache__/
+node_modules/
